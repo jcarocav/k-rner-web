@@ -18,3 +18,4 @@ Antes de publicar, edita `src/app/config.ts` y reemplaza `WHATSAPP_NUMBER` por e
 ```bash
 npm run build
 ```
+.
